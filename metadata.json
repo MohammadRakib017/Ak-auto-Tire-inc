@@ -1,0 +1,6 @@
+{
+  "name": "AK Auto & Tire Inc",
+  "description": "Professional auto repair and tire services in Niagara Falls, NY. High-quality diagnostics, brakes, wheel alignment, and engine repair with honest pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
